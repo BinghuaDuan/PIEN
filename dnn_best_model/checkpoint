@@ -1,0 +1,2 @@
+model_checkpoint_path: "ckpt_noshuffDNN2"
+all_model_checkpoint_paths: "ckpt_noshuffDNN2"
